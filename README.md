@@ -2,6 +2,12 @@
 nginx cheat sheet with the most needed stuff.
 
 
+# Guides
+- http://nginx.org/en/docs/beginners_guide.html
+
+
+<br><br>
+
 
 # localhost
 
